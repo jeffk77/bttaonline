@@ -44,3 +44,14 @@ footer {
   background-color: rgb(34, 47, 105);
   color: white;
 }
+
+.headPic {
+  padding: 20px;
+  border: 20px white solid;
+  background-image: url("./assets/images/bttabuildings1.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 600px;
+  width: 600px;
+}
